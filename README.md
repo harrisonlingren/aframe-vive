@@ -1,6 +1,6 @@
 ## awesome-aframe-vive
 
-A collection of HTC Vive-compatible projects using [A-Frame](https://github.com/aframevr/aframe), the WebVR framework.
+A collection of [HTC Vive](https://htcvive.com)-compatible projects using [A-Frame](https://github.com/aframevr/aframe), the WebVR framework.
 
 ## Table of Contents
 
